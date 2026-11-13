@@ -14,12 +14,11 @@ About · Work experience · Education · Skills · Achievements · Contact
 
 ## Structure
 ```
-akhila-portfolio/
-├── index.html
-├── css/style.css
-├── js/script.js
-├── assets/profile.jpg
-└── README.md
+index.html
+style.css
+script.js
+profile.jpg
+README.md
 ```
 
 ## Run locally
@@ -33,5 +32,5 @@ Then visit http://localhost:8000.
 Push to GitHub and enable **Settings → Pages → Deploy from branch (main, root)**. Netlify and Vercel also work by dropping the folder in.
 
 ## Customise
-- Replace `assets/profile.jpg` to change the photo.
-- Edit text directly in `index.html`; colours are CSS variables at the top of `css/style.css`.
+- Replace `profile.jpg` to change the photo.
+- Edit text directly in `index.html`; colours are CSS variables at the top of `style.css`.
